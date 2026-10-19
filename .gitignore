@@ -44,3 +44,14 @@ application-local.yaml
 
 # Logs
 *.log
+
+# Java compiled files and archives
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
